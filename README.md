@@ -1,0 +1,1 @@
+Use color themes extension and import.
